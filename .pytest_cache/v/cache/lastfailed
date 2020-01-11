@@ -1,0 +1,9 @@
+{
+  "scripts/test01_mp_login.py::TestMpLogin::()": true,
+  "scripts/test01_mp_login.py::TestMpLogin::()::test01": true,
+  "scripts/test02_mp_article.py::TestMpArticle::()::test01": true,
+  "scripts/test02_mp_article.py::TestMpArticle::()::test_article": true,
+  "scripts/test03_mis_login.py::TestMisLogin::()::test01": true,
+  "scripts/test04_mis_article.py::TestMisArticle::()": true,
+  "scripts/test06.py::TestAppLogin::()::test01": true
+}

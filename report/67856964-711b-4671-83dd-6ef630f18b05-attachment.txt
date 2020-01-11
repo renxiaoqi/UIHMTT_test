@@ -1,0 +1,1 @@
+base.py                     18 INFO     正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="a9c3a8f146fb7728d12f9572e7c4bd80")>

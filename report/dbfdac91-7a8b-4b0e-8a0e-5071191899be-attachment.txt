@@ -1,0 +1,11 @@
+base.py                     18 INFO     正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="1dcc801f4e210e14e1a6ca195dde8537")>
+mis_login_page.py           38 INFO     正在调用后台登录的组合业务方法
+base.py                     23 INFO     正在查找元素：('css selector', '[placeholder="用户名"]')
+base.py                     36 INFO     正在给('css selector', '[placeholder="用户名"]')执行清空操作
+base.py                     38 INFO     正在给('css selector', '[placeholder="用户名"]')输入信息为：testid
+base.py                     23 INFO     正在查找元素：('css selector', '[placeholder="密码"]')
+base.py                     36 INFO     正在给('css selector', '[placeholder="密码"]')执行清空操作
+base.py                     38 INFO     正在给('css selector', '[placeholder="密码"]')输入信息为：testpwd123
+base.py                     43 INFO     正在点击：('id', 'inp1')
+base.py                     23 INFO     正在查找元素：('id', 'inp1')
+base.py                     18 INFO     正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="1dcc801f4e210e14e1a6ca195dde8537")>

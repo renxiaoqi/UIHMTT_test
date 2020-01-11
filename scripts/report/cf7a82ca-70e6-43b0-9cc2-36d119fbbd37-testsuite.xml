@@ -1,0 +1,38 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1578643916856" stop="1578643916856">
+  <description>This is the tests collection phase. Failures are modules that failed to collect.</description>
+  <name>test_collection_phase</name>
+  <title>Collection phase</title>
+  <labels/>
+  <test-cases>
+    <test-case start="1578643916856" status="broken" stop="1578643916856">
+      <name>test04_mis_article</name>
+      <failure>
+        <message>failed</message>
+        <stack-trace>test04_mis_article.py:4: in &lt;module&gt;
+    from page.page_in import PageIn
+..\page\page_in.py:1: in &lt;module&gt;
+    from page.mis_article_check import MisArticlePage
+..\page\mis_article_check.py:4: in &lt;module&gt;
+    from base.web_base import WebBase
+..\base\web_base.py:5: in &lt;module&gt;
+    from base.base import Base
+..\base\base.py:9: in &lt;module&gt;
+    logger = GetLog.get_logger()
+..\tools\get_log.py:19: in get_logger
+    encoding="utf-8")
+C:\Users\Administrator\AppData\Local\Programs\Python\Python36-32\lib\logging\handlers.py:202: in __init__
+    BaseRotatingHandler.__init__(self, filename, 'a', encoding, delay)
+C:\Users\Administrator\AppData\Local\Programs\Python\Python36-32\lib\logging\handlers.py:57: in __init__
+    logging.FileHandler.__init__(self, filename, mode, encoding, delay)
+C:\Users\Administrator\AppData\Local\Programs\Python\Python36-32\lib\logging\__init__.py:1030: in __init__
+    StreamHandler.__init__(self, self._open())
+C:\Users\Administrator\AppData\Local\Programs\Python\Python36-32\lib\logging\__init__.py:1059: in _open
+    return open(self.baseFilename, self.mode, encoding=self.encoding)
+E   FileNotFoundError: [Errno 2] No such file or directory: 'D:\\pycharm\\web\\UiHMTT\\scripts\\log\\hmtt.log'</stack-trace>
+      </failure>
+      <attachments/>
+      <labels/>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

@@ -1,0 +1,16 @@
+base.py                     43 INFO     正在点击：('xpath', '//*[@class="menu"]//*[text()="信息管理"]')
+base.py                     23 INFO     正在查找元素：('xpath', '//*[@class="menu"]//*[text()="信息管理"]')
+base.py                     43 INFO     正在点击：('xpath', '//*[@class="current3"]//*[text()="内容审核"]')
+base.py                     23 INFO     正在查找元素：('xpath', '//*[@class="current3"]//*[text()="内容审核"]')
+base.py                     23 INFO     正在查找元素：('css selector', '[placeholder="请输入: 文章名称"]')
+base.py                     36 INFO     正在给('css selector', '[placeholder="请输入: 文章名称"]')执行清空操作
+base.py                     38 INFO     正在给('css selector', '[placeholder="请输入: 文章名称"]')输入信息为：who_am_i
+base.py                     23 INFO     正在查找元素：('css selector', '[placeholder="请输入: 频道"]')
+base.py                     36 INFO     正在给('css selector', '[placeholder="请输入: 频道"]')执行清空操作
+base.py                     38 INFO     正在给('css selector', '[placeholder="请输入: 频道"]')输入信息为：数据库
+base.py                     43 INFO     正在点击：('xpath', '//*[@placeholder="请选择状态"]')
+base.py                     23 INFO     正在查找元素：('xpath', '//*[@placeholder="请选择状态"]')
+base.py                     28 INFO     正在查找元素：('css selector', 'ul>li')
+base.py                     43 INFO     正在点击：('css selector', '.find')
+base.py                     23 INFO     正在查找元素：('css selector', '.find')
+base.py                     23 INFO     正在查找元素：('css selector', '.cell>span')

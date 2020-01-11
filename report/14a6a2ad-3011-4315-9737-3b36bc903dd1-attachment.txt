@@ -1,0 +1,24 @@
+mp_article_page.py          61 INFO     正在调用文章发布业务方法，文章标题为<module 'time' (built-in)>，文章内容为测试文章！嗷呜~
+base.py                     43 INFO     正在点击：('xpath', '//*[@class="el-submenu__title"]//*[text()="内容管理"]')
+base.py                     23 INFO     正在查找元素：('xpath', '//*[@class="el-submenu__title"]//*[text()="内容管理"]')
+base.py                     43 INFO     正在点击：('xpath', '//*[contains(text(),"发布文章")]')
+base.py                     23 INFO     正在查找元素：('xpath', '//*[contains(text(),"发布文章")]')
+base.py                     23 INFO     正在查找元素：('css selector', '[placeholder="文章名称"]')
+base.py                     36 INFO     正在给('css selector', '[placeholder="文章名称"]')执行清空操作
+base.py                     38 INFO     正在给('css selector', '[placeholder="文章名称"]')输入信息为：who_am_i
+base.py                     23 INFO     正在查找元素：('css selector', '#publishTinymce_ifr')
+mp_article_page.py          32 INFO     已切换到iframe
+base.py                     23 INFO     正在查找元素：('css selector', '#tinymce')
+base.py                     36 INFO     正在给('css selector', '#tinymce')执行清空操作
+base.py                     38 INFO     正在给('css selector', '#tinymce')输入信息为：测试文章！嗷呜~
+base.py                     43 INFO     正在点击：('xpath', "//*[text()='自动']")
+base.py                     23 INFO     正在查找元素：('xpath', "//*[text()='自动']")
+base.py                     43 INFO     正在点击：('css selector', "[placeholder='请选择']")
+base.py                     23 INFO     正在查找元素：('css selector', "[placeholder='请选择']")
+base.py                     43 INFO     正在点击：('xpath', "//*[text()='数据库']")
+base.py                     23 INFO     正在查找元素：('xpath', "//*[text()='数据库']")
+base.py                     43 INFO     正在点击：('css selector', '.el-button.filter-item.el-button--primary')
+base.py                     23 INFO     正在查找元素：('css selector', '.el-button.filter-item.el-button--primary')
+base.py                     23 INFO     正在查找元素：('xpath', "//*[contains(text(),'成功')]")
+base.py                     48 INFO     正在获取('xpath', "//*[contains(text(),'成功')]")元素文本值：新增文章成功
+base.py                     23 INFO     正在查找元素：('xpath', "//*[contains(text(),'成功')]")

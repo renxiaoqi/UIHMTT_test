@@ -1,0 +1,4 @@
+mp_article:
+  title: "who_am_i"
+  content: "测试文章！嗷呜~"
+  expect: "新增文章成功"

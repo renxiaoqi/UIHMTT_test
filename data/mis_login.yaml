@@ -1,0 +1,4 @@
+mis_login:
+  username: "testid"
+  password: "testpwd123"
+  expect: "欢迎 管理员"
